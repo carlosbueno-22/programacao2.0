@@ -27,7 +27,8 @@ boby {
  .cartao {
     margin: 1rem 1rem;
     background-color: yellow;
-    heig
+    height: 20rem;
+    flex-grow: 1;
  }
 
 } 
