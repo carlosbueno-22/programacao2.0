@@ -1,11 +1,11 @@
 body {
-    background-color: green;
+    background-color: white;
     color: yellow;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
 footer{ 
-    background-color:  green;
+    background-color:  white;
     color: yellow;
     position: fixed;
     bottom: 0;
